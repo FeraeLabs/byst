@@ -13,4 +13,4 @@ path = "../byst-macros"
 
 [dependencies]
 thiserror = "1.0.60"
-derive_more = "0.99.17"
+derive_more = "1.0.0"
